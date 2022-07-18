@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada\Tabuada.csproj", "{E13283C0-6D78-476D-B151-7B7107CA2785}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{B6ABB741-C103-441D-B326-9F8E9E05C111}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E13283C0-6D78-476D-B151-7B7107CA2785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E13283C0-6D78-476D-B151-7B7107CA2785}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E13283C0-6D78-476D-B151-7B7107CA2785}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E13283C0-6D78-476D-B151-7B7107CA2785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6ABB741-C103-441D-B326-9F8E9E05C111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ABB741-C103-441D-B326-9F8E9E05C111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ABB741-C103-441D-B326-9F8E9E05C111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ABB741-C103-441D-B326-9F8E9E05C111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7BBFF424-CF44-45F0-85BB-67AB020A1120}
+		SolutionGuid = {2A63433F-9569-4DAB-A0A2-B75521721425}
 	EndGlobalSection
 EndGlobal
