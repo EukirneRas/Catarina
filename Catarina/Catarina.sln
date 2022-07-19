@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{B6ABB741-C103-441D-B326-9F8E9E05C111}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catarina", "Catarina\Catarina.csproj", "{52F3CFF1-92D2-4F2E-9DB1-7573501880ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B6ABB741-C103-441D-B326-9F8E9E05C111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6ABB741-C103-441D-B326-9F8E9E05C111}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6ABB741-C103-441D-B326-9F8E9E05C111}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6ABB741-C103-441D-B326-9F8E9E05C111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F3CFF1-92D2-4F2E-9DB1-7573501880ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F3CFF1-92D2-4F2E-9DB1-7573501880ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F3CFF1-92D2-4F2E-9DB1-7573501880ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F3CFF1-92D2-4F2E-9DB1-7573501880ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2A63433F-9569-4DAB-A0A2-B75521721425}
+		SolutionGuid = {C0B718DD-DBF7-46E9-BA58-BC1934BE5B06}
 	EndGlobalSection
 EndGlobal
