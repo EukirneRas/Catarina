@@ -22,34 +22,30 @@ namespace Calculadora
                 int b = int.Parse(Console.ReadLine());
 
                 if (ope == "so" || ope == "So")
-                {
-                    Somar(a, b);
+                {   
                     Console.WriteLine("Resultado da soma: " + Somar(a, b));
                 }
 
                 if (ope == "su" || ope == "Su")
                 {
-                    Subtrair(a, b);
                     Console.WriteLine("Resultado da subtração: " + Subtrair(a, b));
                 }
 
                 if (ope == "m" || ope == "M")
                 {
-                    Multiplicar(a, b);
                     Console.WriteLine("Resultado da multiplicação: " + Multiplicar(a, b));
                 }
 
                 if (ope == "d" || ope == "D")
-                {
-
-                    Dividir(a, b);
+                { 
                     Console.WriteLine("Resultado da divisão: " + Dividir(a, b));
                 }
 
                 static int Somar(int a, int b)
                 {
-                     return (a + b);
+                    return (a + b);
                 }
+
                 static int Subtrair(int a, int b)
                 {
                     return a - b;
